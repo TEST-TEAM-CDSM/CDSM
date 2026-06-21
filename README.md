@@ -1,4 +1,4 @@
-# Conditional Denoising Score-Matching Model
+# Conditional Denoising Score-Matching
 
 This repository contains the experiments used in our paper on sliding-window covariance estimation. This is a minimal public subset; datasets and generated assets are not included. For step-by-step reproduction, start with `notebooks/reproduce_thesis.ipynb` and use `notebooks/paper.ipynb` as the full command log.
 
